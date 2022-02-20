@@ -1,4 +1,5 @@
 let cargador = Math.floor(Math.random() * 400);
+
 console.log(cargador);
 
 function chauchat (numDisparos) {
